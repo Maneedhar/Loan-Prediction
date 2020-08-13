@@ -2,7 +2,7 @@
 
 ## Aim
 
-Our aim from the project is to make use of pandas, matplotlib, & seaborn libraries from python to extract insights from the data, and scikit-learn libraries for machine learning and predict whether the loan applicant can replay the loan or not using voting ensembling techniques of combining the predictions from multiple machine learning algorithms.
+Our aim from the project is to make use of pandas, matplotlib, & seaborn libraries from python to extract insights from the data, and scikit-learn libraries for machine learning and predict whether the loan applicant can repay the loan or not using voting ensembling techniques of combining the predictions from multiple machine learning algorithms.
 
 ## Data Attributes
 
